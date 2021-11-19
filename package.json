@@ -1,0 +1,19 @@
+{
+  "name": "events-endpoint",
+  "version": "1.0.0",
+  "description": "Event endpoint for RarePepes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Migg88/events-endpoint.git"
+  },
+  "author": "Miguel Guizar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Migg88/events-endpoint/issues"
+  },
+  "homepage": "https://github.com/Migg88/events-endpoint#readme"
+}
